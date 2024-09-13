@@ -1,4 +1,6 @@
 ## Marketing Campaign Analysis 2
+![Marketing_Campaign_Analysis2](https://github.com/user-attachments/assets/3074265a-c064-4b8d-a2bf-651b5586d8ba)
+
 **Project Overview:** I developed a Marketing Campaign  Analysis dashboard in Power BI to track the performance of campaigns and analyze customer purchase behavior. The dashboard provided insights into campaign effectiveness, product purchases across different channels, spending patterns, and customer complaints, enabling the marketing team to optimize future strategies.
 
 **Data Preparation:** Using Power Query Editor, I cleaned the raw data by removing duplicates, handling missing values, and standardizing column names (e.g., campaign IDs, and product channels). I transformed the data into a structure suitable for data modeling and visualization.
