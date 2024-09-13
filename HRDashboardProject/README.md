@@ -20,5 +20,3 @@
 *Leave Balance:* A bar chart displays average leave balances across departments and highlights employees with over 20 days of leave.
 
 *Interactivity & Data Model:* I integrated slicers for dynamic filtering by job title, gender, and join date, enhancing usability. The underlying data model used 1-to-many relationships for accurate aggregation between employee and job/salary data.
-
-[HR Dashboard Report](HRDashboard.pdf)
