@@ -8,10 +8,16 @@ Data Preparation: I used Power Query Editor for data cleaning, ensuring consiste
 Key Metrics & Visuals:
 
 Headcount by Job Title: A clustered bar chart shows staff distribution across roles (e.g., Packaging Associate with 22 employees). This assists in workforce allocation and planning.
+
 Gender Distribution: A pie chart reveals the gender split (54.66% female, 45.34% male), supporting diversity initiatives.
+
 Age Distribution: A histogram presents employee age ranges, helping identify age demographics for targeted programs.
-Salary Analysis: A scatter chart visualizes salary ranges by job title (e.g., Product Manager avg. $82,825). A line chart breaks down salaries by qualifications (Bachelor’s, Diploma, etc.).
+
+Salary Analysis: A scatter chart breaks down salaries by qualifications (Bachelor’s, Diploma, etc.).
+
 Cumulative Headcount Growth: A line chart tracks staff growth from 2018 to 2023, highlighting recruitment trends.
+
 Leave Balance: A bar chart displays average leave balances across departments and highlights employees with over 20 days of leave.
+
 Interactivity & Data Model: I integrated slicers for dynamic filtering by job title, gender, and join date, enhancing usability. The underlying data model used 1-to-many relationships for accurate aggregation between employee and job/salary data.
 
