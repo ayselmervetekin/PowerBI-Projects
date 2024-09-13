@@ -1,4 +1,6 @@
 ## HR Dashboard Project 
+![HR_Dashboard](https://github.com/user-attachments/assets/933ed093-3e43-4437-ac11-64943b320c60) 
+
 **Project Overview:** I developed an interactive HR dashboard using Power BI to provide insights into workforce composition, salary structures, and leave balances. The dashboard enables real-time monitoring of metrics such as headcount, gender distribution, salary breakdown, and employee age.
 
 **Data Preparation:** I used Power Query Editor for data cleaning, ensuring consistency across job titles, salaries, and qualifications. This included handling missing data and formatting numeric fields for accurate calculations.
